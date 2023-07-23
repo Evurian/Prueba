@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Ejercicio {
+public class Proyecto {
     public static boolean esCuadrada(int[ ] [ ] matriz ){
         if(matriz.length == matriz[1].length ){
             return true;
